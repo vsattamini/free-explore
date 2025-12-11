@@ -3,6 +3,13 @@
 A Retreival Augmented Generation (RAG) agent specialized in finance, powered by Gemini and ChromaDB.  
 It uses the **ScaleAI/PRBench** dataset to answer complex financial questions, capable of running Python code for calculations.
 
+## Main description
+- What I built: Finantial RAG
+- Why: Familiarity, immediate usefulness
+- What I chose NOT to do: Agentic system to try to beat the benchmark using ReAct loop (time constraints for development and evaluation)
+- What surprised me: How quick it was to build this and the rush of the challenge being 50 min long
+
+
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
